@@ -1,0 +1,8 @@
+pandas
+flask
+flask-cors
+sqlalchemy
+groq
+werkzeug
+python-dotenv
+openpyxl
