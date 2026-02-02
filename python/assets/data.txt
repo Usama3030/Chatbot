@@ -1,0 +1,14 @@
+IncidentId	Site	Region	Severity	Category	Root Cause	Recordable Status	Total Hours	SeverityCategory	Cost
+1080	Lahore Warehouse	APAC	Medical Treatment	Chemical Exposure	Human Behavior	Non-Recordable	30600	Medium	214.12
+1034	Riyadh Service Center	EMEA	Property Damage	Chemical Exposure	Third Party / Contractor	Recordable	11700	High	29.52
+1074	Karachi Plant	APAC	Property Damage	Caught-In/Between	Equipment / Machine	Non-Recordable	9650	Critical	3458.00
+1055	Karachi Plant	APAC	Near Miss	Struck-By	Unknown / Undetermined	Non-Recordable	49709	Medium	2444.00
+1008	Lahore Warehouse	APAC	Near Miss	Caught-In/Between	Procedure / Process	Recordable	16192	Critical	1735.00
+1000	Manchester Works	EMEA	Lost Time	Caught-In/Between	Human Behavior	Recordable	15225	High	1755.00
+1051	Lahore Warehouse	APAC	Near Miss	Slip/Trip/Fall	Procedure / Process	Recordable	27441	Medium	3456.00
+1048	Riyadh Service Center	EMEA	Near Miss	Ergonomics	Equipment / Machine	Non-Recordable	32326	High	3986.00
+1015	Karachi Plant	APAC	Lost Time	Chemical Exposure	Human Behavior	Recordable	5750	Medium	4630.00
+1016	Toronto Distribution	North America	Near Miss	Caught-In/Between	Environment / Weather	Recordable	37396	Medium	2478.00
+1081	Lahore Warehouse	APAC	Lost Time	Slip/Trip/Fall	Unknown / Undetermined	Non-Recordable	13842	High	1323.00
+1045	Karachi Plant	APAC	Restricted Work	Ergonomics	Human Behavior	Recordable	24397	Low	1331.00
+
